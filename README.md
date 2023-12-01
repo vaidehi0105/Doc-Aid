@@ -37,7 +37,9 @@ I created weighted knowledge graph using neo4j graph database where we have two 
 
 Sample of knowledge graph 
 
-![graph (2)](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/e1f88821-9740-4110-87b5-f0d73f8f5156=250x250=250x250)
+
+
+![graph (4)](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/8ee9b030-35ad-4e56-a772-b720e4151560)
 
 
 # How does User Interface works?
@@ -46,13 +48,13 @@ Sample of knowledge graph
 
 #Web interface 
 
-![s2](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/03928c43-67c6-4a56-9ac4-3a6e5e68adf3|width=100)
-![s3](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/e16995ec-3b52-4a44-a1b2-ea4befe33208|width=100)
-![s4](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/3fa45920-fe6e-485b-8fdd-d0051418abc0|width=100)
-![s6](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/14ad5499-522a-4b82-beb1-bc0ed19dc2e1|width=100)
-![s7](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/d454f972-43d3-41e2-bfcc-ae4151451880|width=100)
-![s8](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/75a2b9c5-940c-4036-97b5-d01e2b08649d|width=100)
-![s9](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/6293ceb8-907c-4ced-b647-b66eea619578|width=100)
+![s2](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/03928c43-67c6-4a56-9ac4-3a6e5e68adf3 )
+![s3](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/e16995ec-3b52-4a44-a1b2-ea4befe33208 )
+![s4](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/3fa45920-fe6e-485b-8fdd-d0051418abc0 )
+![s6](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/14ad5499-522a-4b82-beb1-bc0ed19dc2e1 )
+![s7](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/d454f972-43d3-41e2-bfcc-ae4151451880 )
+![s8](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/75a2b9c5-940c-4036-97b5-d01e2b08649d )
+![s9](https://github.com/vaidehi0105/Doc-Aid/assets/72137592/6293ceb8-907c-4ced-b647-b66eea619578 )
 
 
 # Code explaination :
